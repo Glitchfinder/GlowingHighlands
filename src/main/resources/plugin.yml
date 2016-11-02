@@ -1,0 +1,6 @@
+author: Glitchfinder
+description: A world generator plugin that generates a floating, glowing world.
+main: com.glitchkey.glowinghighlands.GlowingHighlandsPlugin
+name: GlowingHighlands
+version: '1.0'
+depend: [Pandora]
