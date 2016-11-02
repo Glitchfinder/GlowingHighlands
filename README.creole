@@ -19,6 +19,10 @@ This world was designed back in early 2014, and very little has changed since.
 As such, newer blocks, resources, mobs, and items may be unbalanced or not
 present at all.
 
+This world generator is extremely intensive, and it is recommended that anyone
+who wishes to run it use some means to pre-generate the world in advance of use,
+to prevent excessive lag caused by chunk generation.
+
 Ths current build of this generator appears like this ingame:
 
 {{http://i.imgur.com/AYJNROQ.png}}
